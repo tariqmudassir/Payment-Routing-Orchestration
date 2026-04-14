@@ -8,7 +8,7 @@ A high-fidelity simulation of an intelligent payment routing engine. Routes tran
 
 ## Live Demo
 
-Deployed on Vercel → *(add your URL here after deployment)*
+Deployed on Vercel → *https://payment-routing-orchestration.vercel.app*
 
 ---
 
